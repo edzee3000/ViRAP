@@ -1,0 +1,39 @@
+{
+  "architecture": "MAEToneModel",
+  "model": {
+    "visual_size": 224,
+    "photo_size": 224,
+    "readout_dim": 256,
+    "num_queries": 16,
+    "readout_layers": 2,
+    "readout_heads": 8,
+    "readout_ffn": 1024,
+    "global_dim": 256,
+    "visual_layers": [
+      3,
+      7,
+      11
+    ],
+    "pair_attention": true,
+    "context_size": 64,
+    "lut_size": 17,
+    "color_width": 128,
+    "local_rank": 4,
+    "global_limit": 1.0,
+    "local_limit": 0.15,
+    "local_output_limit": 0.15,
+    "projection": "none",
+    "projection_rcond": 0.0001,
+    "render_chunk_rows": 128,
+    "flat_field_scale": 0.05,
+    "spatial_conditioning": "pair",
+    "spatial_film_limit": 0.25,
+    "visual_dim": 768,
+    "visual_patch_size": 16
+  },
+  "backbone": "official MAE pretrain ViT-B/16 encoder, no decoder/masking",
+  "checkpoint_required_for_real_use": true,
+  "timm_version": "1.0.22",
+  "checkpoint_sha256_used_by_encoder_probe": "aec5f0b68e5f3193a00b07bc65a37440db549c15b36b8bea242606cc40c4bc5d",
+  "note": "Architecture config, no trained full MAE-tone checkpoint; not a V1 train.py config"
+}

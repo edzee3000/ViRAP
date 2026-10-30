@@ -1,0 +1,1284 @@
+{
+  "remote_host": "trinity-2-23",
+  "source_roots": {
+    "active": "/tmp/shihangz/photo-tone-transfer",
+    "persistent": "/data3/shihangz/photo-tone-transfer"
+  },
+  "files": [
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/adaptation_supervisor.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/adaptation_supervisor.py",
+      "sha256": "c130e9fcf753f9208084571ab23a4fa45e2f232555ff8aa790222e788169317b"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/audit_v2_1.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/audit_v2_1.py",
+      "sha256": "e301b8e42a8340cb907d1dd7ce61faa76b0f818664995a97e25df5dd96f9310f"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/build_mae_tone_configs.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/build_mae_tone_configs.py",
+      "sha256": "7b522405a8ad96527b8c44d88bc951493718eca2a5da949b509b0711c5b3712a"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/check_probe_backbones.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/check_probe_backbones.py",
+      "sha256": "fafb896094653eeba2a22315e63f4380d431e9e122286690e0b33268644e56c6"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/diagnose.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/diagnose.py",
+      "sha256": "293af11ba43b3035e1c914f80f2d9e0a510233cad230a77b378ba8a3f890859e"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/encoder_experiment_jobs.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/encoder_experiment_jobs.py",
+      "sha256": "a0f999ed7fe579d50fb12de43087a2eb0a3b748ff5aaf635a0216890b3f69f9e"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/gpu_smoke.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/gpu_smoke.py",
+      "sha256": "d7c04a483bf3e661c13da6e82112c6af01d74b4b62796f4bc2e373ba429ccd84"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_batching.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_batching.py",
+      "sha256": "6f44fd2bb2184fae588af5dfd3195542badb9ba2c61c2b9b1a8b7fad8ab3d162"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_supervisor.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_supervisor.py",
+      "sha256": "a0ad06e92e35365dd61861b586c1733e18e7b869992f86531a74bc956033cda4"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/infer.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/infer.py",
+      "sha256": "853351237a6beb6e44367b267340d22175ec7d40b099d8ed7cc4f27dd8a04601"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_mae_tone.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_mae_tone.py",
+      "sha256": "c6b6a858a3b9f1ac69470397767b1fe6333488b6f94b66f44e90bc15bc6735f3"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_v2.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_v2.py",
+      "sha256": "02c49d154bde95be5c9342e0d3a546a1eec4e3163bb9d602041b8ea105c7b87b"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_full_supervisor.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_full_supervisor.py",
+      "sha256": "d8dd0fbbd67ace9b99bb65528e592918b7a6ac152f08a08063c08fb797a9b510"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.html",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.html",
+      "sha256": "726ec0ffb8efd98a6fdb43e462a4592cb1ea9e02127ef8367dd1f7ec776eba54"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.py",
+      "sha256": "6d8af40d1ec816b1cfeb836c155f977705573acf6b1362be57a2ffea35b53042"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/prepare_encoder_experiment.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/prepare_encoder_experiment.py",
+      "sha256": "bf4776679d6e71047b70ea30e4927abbb024f68305cc9be9b54755b9661f3137"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/preview_gallery_worker.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/preview_gallery_worker.py",
+      "sha256": "94dc017186031cdd57d46ae8275f2ff73491e60313e47dc8d920a37ef186bfe5"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/probe_status.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/probe_status.py",
+      "sha256": "93663dd1642844c63bc212aebb40274c0d40c901d76e92eb0aa22d43db89a8b2"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/run_encoder_probe.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/run_encoder_probe.py",
+      "sha256": "effa92f59e6a0f1e4d99fee96853bb4788a1db9c89ca75db57e52bce4f81cf20"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/save_probe_snapshot.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/save_probe_snapshot.py",
+      "sha256": "899a67b41ba60558a848e7d47e36fbbc7f26fdbf31a3fa2b7c494dfb0ac44303"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/summarize_encoder_probe.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/summarize_encoder_probe.py",
+      "sha256": "1926ea35cda52af6295cf25a04db04355e900ef50a617a539a95f57c65ad7077"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/__init__.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/__init__.py",
+      "sha256": "bf3e663594fdced94164cead87fdc0a711722f8827c31b77d54ed207062bf896"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/data.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/data.py",
+      "sha256": "799ae5fa72e31e6e4a9dd101b34aa25afad80c979f94547fb3f3f016811106f2"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/encoder_probe.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/encoder_probe.py",
+      "sha256": "ac48c0dd2d15efa6b0759e5fa8936e9ef96b23a2e95191c28dc667c2ecb78be2"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/losses.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/losses.py",
+      "sha256": "311792a60fb207c99dd6de129448fde432b93356062b0c49af5c4bfabd048fd5"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_adaptation.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_adaptation.py",
+      "sha256": "07a871cbc5175fa90d52f9e8bb0c6270c854023c00ded2480a80d40de48175c3"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_hybrid_lora.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_hybrid_lora.py",
+      "sha256": "2e5869c999862848efe4e5c2d86a7af6dace1998f7bad951d714847040e7cc2a"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_tone.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_tone.py",
+      "sha256": "9bacad47851751e11a620b0fc124c769d1ecf8caa1cac983e18e75cc79185859"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/model.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/model.py",
+      "sha256": "615dd14e8541fd9aa51e5569e2865a830c116bdcdae67adf187dd8e499a77c15"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/v2.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/v2.py",
+      "sha256": "c739114a79f6a57f8f8957a50c5189e1c56d6e9c58dc4186eacba14c46ea4d45"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train.py",
+      "sha256": "9a6df8413c7582f99294cfec24f9f4ad58051119d7545015a1c02903ed7e6b55"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_adaptation.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_adaptation.py",
+      "sha256": "0110d4bd16132f2329cbbe4adabf2dd20930846e7ed4f472de226c14a3ecdb85"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_full.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_full.py",
+      "sha256": "bf2b44a31e876ba3e742e5c9924d2deb30a2dfb3f0eb71987faffa0f3b652b71"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_hybrid.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_hybrid.py",
+      "sha256": "924cb19a2d66cad8c5edb2cacddbde6b1a3c49d5a2c7555ad638f5bad7499ffa"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/audit_v2_1.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/audit_v2_1.py",
+      "sha256": "e301b8e42a8340cb907d1dd7ce61faa76b0f818664995a97e25df5dd96f9310f"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/build_mae_tone_configs.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/build_mae_tone_configs.py",
+      "sha256": "7b522405a8ad96527b8c44d88bc951493718eca2a5da949b509b0711c5b3712a"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/check_probe_backbones.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/check_probe_backbones.py",
+      "sha256": "fafb896094653eeba2a22315e63f4380d431e9e122286690e0b33268644e56c6"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/diagnose.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/diagnose.py",
+      "sha256": "293af11ba43b3035e1c914f80f2d9e0a510233cad230a77b378ba8a3f890859e"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/encoder_experiment_jobs.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/encoder_experiment_jobs.py",
+      "sha256": "a0f999ed7fe579d50fb12de43087a2eb0a3b748ff5aaf635a0216890b3f69f9e"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/gpu_smoke.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/gpu_smoke.py",
+      "sha256": "d7c04a483bf3e661c13da6e82112c6af01d74b4b62796f4bc2e373ba429ccd84"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_batching.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_batching.py",
+      "sha256": "6f44fd2bb2184fae588af5dfd3195542badb9ba2c61c2b9b1a8b7fad8ab3d162"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_supervisor.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_supervisor.py",
+      "sha256": "a0ad06e92e35365dd61861b586c1733e18e7b869992f86531a74bc956033cda4"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/infer.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/infer.py",
+      "sha256": "853351237a6beb6e44367b267340d22175ec7d40b099d8ed7cc4f27dd8a04601"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_mae_tone.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_mae_tone.py",
+      "sha256": "c6b6a858a3b9f1ac69470397767b1fe6333488b6f94b66f44e90bc15bc6735f3"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_v2.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_v2.py",
+      "sha256": "02c49d154bde95be5c9342e0d3a546a1eec4e3163bb9d602041b8ea105c7b87b"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_full_supervisor.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_full_supervisor.py",
+      "sha256": "d8dd0fbbd67ace9b99bb65528e592918b7a6ac152f08a08063c08fb797a9b510"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.html",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.html",
+      "sha256": "726ec0ffb8efd98a6fdb43e462a4592cb1ea9e02127ef8367dd1f7ec776eba54"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.py",
+      "sha256": "6d8af40d1ec816b1cfeb836c155f977705573acf6b1362be57a2ffea35b53042"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/prepare_encoder_experiment.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/prepare_encoder_experiment.py",
+      "sha256": "bf4776679d6e71047b70ea30e4927abbb024f68305cc9be9b54755b9661f3137"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/probe_status.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/probe_status.py",
+      "sha256": "93663dd1642844c63bc212aebb40274c0d40c901d76e92eb0aa22d43db89a8b2"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/run_encoder_probe.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/run_encoder_probe.py",
+      "sha256": "effa92f59e6a0f1e4d99fee96853bb4788a1db9c89ca75db57e52bce4f81cf20"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/save_probe_snapshot.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/save_probe_snapshot.py",
+      "sha256": "899a67b41ba60558a848e7d47e36fbbc7f26fdbf31a3fa2b7c494dfb0ac44303"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/summarize_encoder_probe.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/summarize_encoder_probe.py",
+      "sha256": "1926ea35cda52af6295cf25a04db04355e900ef50a617a539a95f57c65ad7077"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/__init__.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/__init__.py",
+      "sha256": "bf3e663594fdced94164cead87fdc0a711722f8827c31b77d54ed207062bf896"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/data.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/data.py",
+      "sha256": "799ae5fa72e31e6e4a9dd101b34aa25afad80c979f94547fb3f3f016811106f2"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/encoder_probe.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/encoder_probe.py",
+      "sha256": "ac48c0dd2d15efa6b0759e5fa8936e9ef96b23a2e95191c28dc667c2ecb78be2"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/losses.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/losses.py",
+      "sha256": "311792a60fb207c99dd6de129448fde432b93356062b0c49af5c4bfabd048fd5"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_hybrid_lora.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_hybrid_lora.py",
+      "sha256": "2e5869c999862848efe4e5c2d86a7af6dace1998f7bad951d714847040e7cc2a"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_tone.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_tone.py",
+      "sha256": "9bacad47851751e11a620b0fc124c769d1ecf8caa1cac983e18e75cc79185859"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/model.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/model.py",
+      "sha256": "615dd14e8541fd9aa51e5569e2865a830c116bdcdae67adf187dd8e499a77c15"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/v2.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/v2.py",
+      "sha256": "c739114a79f6a57f8f8957a50c5189e1c56d6e9c58dc4186eacba14c46ea4d45"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train.py",
+      "sha256": "9a6df8413c7582f99294cfec24f9f4ad58051119d7545015a1c02903ed7e6b55"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_full.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_full.py",
+      "sha256": "bf2b44a31e876ba3e742e5c9924d2deb30a2dfb3f0eb71987faffa0f3b652b71"
+    },
+    {
+      "source": "active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_hybrid.py",
+      "repository_path": "Remote_Code/active/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_hybrid.py",
+      "sha256": "924cb19a2d66cad8c5edb2cacddbde6b1a3c49d5a2c7555ad638f5bad7499ffa"
+    },
+    {
+      "source": "active/Model/README.md",
+      "repository_path": "Remote_Code/active/Model/README.md",
+      "sha256": "60dd229c93d570fa5aa6807a5aee5ef1228c7bd604d2e1566a004ac1c1a429aa"
+    },
+    {
+      "source": "active/Model/check_probe_backbones.py",
+      "repository_path": "Model/check_probe_backbones.py",
+      "sha256": "fafb896094653eeba2a22315e63f4380d431e9e122286690e0b33268644e56c6"
+    },
+    {
+      "source": "active/Model/configs/default.json",
+      "repository_path": "Model/configs/default.json",
+      "sha256": "8fda345064f51debe4572fd5b13cec5fbb18ea867d8a2a786be95ae1d20d5155"
+    },
+    {
+      "source": "active/Model/configs/global_only.json",
+      "repository_path": "Model/configs/global_only.json",
+      "sha256": "1da120e0a678b7dab63b39d3c8ebb13a1c8f8d6aeecf03c37e1a33e2270fa53b"
+    },
+    {
+      "source": "active/Model/configs/local_mean.json",
+      "repository_path": "Model/configs/local_mean.json",
+      "sha256": "3b661e2d93067f8a2ed32729e555f84dc3aa7b3bb3bb7a55f2159ffb481a6001"
+    },
+    {
+      "source": "active/Model/configs/local_soft.json",
+      "repository_path": "Model/configs/local_soft.json",
+      "sha256": "222c2477638ab873e6ee23c2904875d31f4b9d4cee3706382a67c6c91382645e"
+    },
+    {
+      "source": "active/Model/configs/local_unprojected.json",
+      "repository_path": "Model/configs/local_unprojected.json",
+      "sha256": "483b4a02f39f8a1d38390a7ce2f37560f214e241923a26716ce1566cad641698"
+    },
+    {
+      "source": "active/Model/configs/unbounded_projection.json",
+      "repository_path": "Model/configs/unbounded_projection.json",
+      "sha256": "6f1cc9dde750b67d2f8555bd8280e5441ebddb347e8535822fd33ea13aa1a561"
+    },
+    {
+      "source": "active/Model/configs/without_style_aux.json",
+      "repository_path": "Model/configs/without_style_aux.json",
+      "sha256": "681c46fcbf86261f2584711d125630c1306724e80baae49ab613d8624f2ee0fc"
+    },
+    {
+      "source": "active/Model/diagnose.py",
+      "repository_path": "Model/diagnose.py",
+      "sha256": "293af11ba43b3035e1c914f80f2d9e0a510233cad230a77b378ba8a3f890859e"
+    },
+    {
+      "source": "active/Model/encoder_experiment_jobs.py",
+      "repository_path": "Model/encoder_experiment_jobs.py",
+      "sha256": "a0f999ed7fe579d50fb12de43087a2eb0a3b748ff5aaf635a0216890b3f69f9e"
+    },
+    {
+      "source": "active/Model/gpu_smoke.py",
+      "repository_path": "Model/gpu_smoke.py",
+      "sha256": "d7c04a483bf3e661c13da6e82112c6af01d74b4b62796f4bc2e373ba429ccd84"
+    },
+    {
+      "source": "active/Model/infer.py",
+      "repository_path": "Model/infer.py",
+      "sha256": "853351237a6beb6e44367b267340d22175ec7d40b099d8ed7cc4f27dd8a04601"
+    },
+    {
+      "source": "active/Model/prepare_encoder_experiment.py",
+      "repository_path": "Model/prepare_encoder_experiment.py",
+      "sha256": "bf4776679d6e71047b70ea30e4927abbb024f68305cc9be9b54755b9661f3137"
+    },
+    {
+      "source": "active/Model/probe_status.py",
+      "repository_path": "Model/probe_status.py",
+      "sha256": "93663dd1642844c63bc212aebb40274c0d40c901d76e92eb0aa22d43db89a8b2"
+    },
+    {
+      "source": "active/Model/requirements-encoder-probe.txt",
+      "repository_path": "Model/requirements-encoder-probe.txt",
+      "sha256": "b1945aab327a3186039ab3b7ae9a052d9ad4e17dec0d023c15f348cc8fd67cf5"
+    },
+    {
+      "source": "active/Model/requirements.txt",
+      "repository_path": "Model/requirements.txt",
+      "sha256": "337dd83decb19f54e1075a7a014965dc5283b72dcf9b23445bafa670378be460"
+    },
+    {
+      "source": "active/Model/run_encoder_probe.py",
+      "repository_path": "Model/run_encoder_probe.py",
+      "sha256": "effa92f59e6a0f1e4d99fee96853bb4788a1db9c89ca75db57e52bce4f81cf20"
+    },
+    {
+      "source": "active/Model/save_probe_snapshot.py",
+      "repository_path": "Model/save_probe_snapshot.py",
+      "sha256": "899a67b41ba60558a848e7d47e36fbbc7f26fdbf31a3fa2b7c494dfb0ac44303"
+    },
+    {
+      "source": "active/Model/summarize_encoder_probe.py",
+      "repository_path": "Model/summarize_encoder_probe.py",
+      "sha256": "1926ea35cda52af6295cf25a04db04355e900ef50a617a539a95f57c65ad7077"
+    },
+    {
+      "source": "active/Model/tests/test_data.py",
+      "repository_path": "Model/tests/test_data.py",
+      "sha256": "a3aef9ac18076d208409687cf0ca95b3b295840dc3be5d9f4cd076b1250c347d"
+    },
+    {
+      "source": "active/Model/tests/test_model.py",
+      "repository_path": "Model/tests/test_model.py",
+      "sha256": "4f2b47ec84ab239298c93d846bd6faff339186315f6488d963442a19e27e765b"
+    },
+    {
+      "source": "active/Model/tone_model/__init__.py",
+      "repository_path": "Model/tone_model/__init__.py",
+      "sha256": "bf3e663594fdced94164cead87fdc0a711722f8827c31b77d54ed207062bf896"
+    },
+    {
+      "source": "active/Model/tone_model/data.py",
+      "repository_path": "Model/tone_model/data.py",
+      "sha256": "799ae5fa72e31e6e4a9dd101b34aa25afad80c979f94547fb3f3f016811106f2"
+    },
+    {
+      "source": "active/Model/tone_model/encoder_probe.py",
+      "repository_path": "Model/tone_model/encoder_probe.py",
+      "sha256": "ac48c0dd2d15efa6b0759e5fa8936e9ef96b23a2e95191c28dc667c2ecb78be2"
+    },
+    {
+      "source": "active/Model/tone_model/losses.py",
+      "repository_path": "Model/tone_model/losses.py",
+      "sha256": "311792a60fb207c99dd6de129448fde432b93356062b0c49af5c4bfabd048fd5"
+    },
+    {
+      "source": "active/Model/tone_model/model.py",
+      "repository_path": "Model/tone_model/model.py",
+      "sha256": "615dd14e8541fd9aa51e5569e2865a830c116bdcdae67adf187dd8e499a77c15"
+    },
+    {
+      "source": "active/Model/tone_model/v2.py",
+      "repository_path": "Remote_Code/active/Model/tone_model/v2.py",
+      "sha256": "4c1043be459213a7d60614076f5a9a4631d58c0cf8bdee1bbdac876cffd4fb5d"
+    },
+    {
+      "source": "active/Model/train.py",
+      "repository_path": "Model/train.py",
+      "sha256": "9a6df8413c7582f99294cfec24f9f4ad58051119d7545015a1c02903ed7e6b55"
+    },
+    {
+      "source": "active/Research/MAE_Adaptation_Sweep_20261030.md",
+      "repository_path": "Research/MAE_Adaptation_Sweep_20261030.md",
+      "sha256": "550417b7c627f02214549c825e08a4d8c66570383325501836c027cecd040b3d"
+    },
+    {
+      "source": "active/Research/PETAL/CVPR2027定位与创新风险复核.md",
+      "repository_path": "Research/PETAL/CVPR2027定位与创新风险复核.md",
+      "sha256": "ab7b54bf79591f6606cfe7097c43c75c21b4f11023e82a9db4bb207083de0ac9"
+    },
+    {
+      "source": "active/Research/PETAL/Trinity数据生成运行记录.md",
+      "repository_path": "Research/PETAL/Trinity数据生成运行记录.md",
+      "sha256": "fcd8cd2cd966191dc0c42c103e22d9dac81b870a70e532b9eb98e25da9643f4e"
+    },
+    {
+      "source": "active/Research/PETAL/architecture_peer_critique.md",
+      "repository_path": "Research/PETAL/architecture_peer_critique.md",
+      "sha256": "7cabe2bb6c06b2ad55b99a17e49faef0ad0e4df5cc69dbd0744b90831f001486"
+    },
+    {
+      "source": "active/Research/PETAL/参考条件调色架构主线候选.md",
+      "repository_path": "Research/PETAL/参考条件调色架构主线候选.md",
+      "sha256": "b37f9d5cb2d7c57e46a009ca93ae4c6b503c0ba72089f8c2b94e3b8e7e2f9454"
+    },
+    {
+      "source": "active/Research/PETAL/模型架构完整设计与自审.md",
+      "repository_path": "Research/PETAL/模型架构完整设计与自审.md",
+      "sha256": "09715508ae40946c6815bee092c742a5f8e2bb4ee06dea6cb1ea1457b351025d"
+    },
+    {
+      "source": "active/Research/PETAL/毕业论文调研与实施建议.md",
+      "repository_path": "Research/PETAL/毕业论文调研与实施建议.md",
+      "sha256": "1331233fedd0aecdb2f03854e294721d11ac521c8edbb36b717fce2d26e20819"
+    },
+    {
+      "source": "active/Research/PETAL/训练入口验证记录.md",
+      "repository_path": "Research/PETAL/训练入口验证记录.md",
+      "sha256": "4d360a7837ac470498b578f2724a10764d5084828ecd9391922e70c3819d0c67"
+    },
+    {
+      "source": "active/Research/Training_Gallery_20261030.md",
+      "repository_path": "Research/Training_Gallery_20261030.md",
+      "sha256": "46c9fa53f3f93e8183e5f2aec0e4435f559cc460769182b718fd9e35b214f8fe"
+    },
+    {
+      "source": "active/Research/Trinity-generation-record.md",
+      "repository_path": "Research/Trinity-generation-record.md",
+      "sha256": "fcd8cd2cd966191dc0c42c103e22d9dac81b870a70e532b9eb98e25da9643f4e"
+    },
+    {
+      "source": "active/Research/adaptation_dashboard.html",
+      "repository_path": "Research/adaptation_dashboard.html",
+      "sha256": "c30a1f60d058cc93c306a837fc3c15246d5ec10012c7512796683ab7b6465189"
+    },
+    {
+      "source": "active/Research/archive_mae_pilots.py",
+      "repository_path": "Research/archive_mae_pilots.py",
+      "sha256": "1820c38cd26fc9ad26557aeb0a84d4996c6f7584b450918d538647e8c57e2c75"
+    },
+    {
+      "source": "active/Research/archive_unused_probe_cache.py",
+      "repository_path": "Research/archive_unused_probe_cache.py",
+      "sha256": "fa13079830d6aad8a837c87ffc0b9017caeae052b6f0c31f8ca2b81ecf4a8164"
+    },
+    {
+      "source": "active/Research/audit_mae_test.py",
+      "repository_path": "Research/audit_mae_test.py",
+      "sha256": "20624e0c4f2f6a5d7a558460c679377cfca8478985223f0f78353811bd1f2d08"
+    },
+    {
+      "source": "active/Research/collect_encoder_validation.py",
+      "repository_path": "Research/collect_encoder_validation.py",
+      "sha256": "ff64515847a00d9a0babeb09a1a5ddedf53b95e78aba9cd343170adb55fd589c"
+    },
+    {
+      "source": "active/Research/data_collection/apply_review_deletions.py",
+      "repository_path": "Research/data_collection/apply_review_deletions.py",
+      "sha256": "0928ac532844e859a338c8ebf75cb60538e2f14f5f6ee799e6132a55b8081e37"
+    },
+    {
+      "source": "active/Research/data_collection/apply_unified_review.py",
+      "repository_path": "Research/data_collection/apply_unified_review.py",
+      "sha256": "23da669bee6d15c13d12d456ce6a063f837c0fbbdaf44fced19837635c23ad7c"
+    },
+    {
+      "source": "active/Research/data_collection/build_pair_preview.py",
+      "repository_path": "Research/data_collection/build_pair_preview.py",
+      "sha256": "922be60a480e153b0c5794123f60946406b871687cb47fc4f6642e67cc6dcbc1"
+    },
+    {
+      "source": "active/Research/data_collection/build_review.py",
+      "repository_path": "Research/data_collection/build_review.py",
+      "sha256": "7ef3ee659f333c35374de1c93eb01eb907b7a565ffed03e6fa8863951bca7d0c"
+    },
+    {
+      "source": "active/Research/data_collection/build_unified_review.py",
+      "repository_path": "Research/data_collection/build_unified_review.py",
+      "sha256": "378b2913e9d29cec8ce0641a418296d4375a415ce25d05c0eda8f88458972a03"
+    },
+    {
+      "source": "active/Research/data_collection/collect_photos.py",
+      "repository_path": "Research/data_collection/collect_photos.py",
+      "sha256": "0481bb55c60fe3f5d2d75834112fe1883a0954a665022a42eb844fda7fc5b2e3"
+    },
+    {
+      "source": "active/Research/data_collection/download_album_covers.py",
+      "repository_path": "Research/data_collection/download_album_covers.py",
+      "sha256": "7ae0f7a2434848d675bc9b340eb8148555cd44f49af601bf87106805e386d8d5"
+    },
+    {
+      "source": "active/Research/data_collection/expand_pairs_60000.py",
+      "repository_path": "Research/data_collection/expand_pairs_60000.py",
+      "sha256": "cc8c24145c661862b1dfe7aa94ef8bb644cdf85598f1a93bba5b2c93a354425c"
+    },
+    {
+      "source": "active/Research/data_collection/finalize_album_review.py",
+      "repository_path": "Research/data_collection/finalize_album_review.py",
+      "sha256": "30310429da001ae7ad5e1fe58ef3d14f3f4dcbe3df8e76aca2e306fd4f01fce8"
+    },
+    {
+      "source": "active/Research/data_collection/pair_preview.html",
+      "repository_path": "Research/data_collection/pair_preview.html",
+      "sha256": "63c5dd07f81608361cd6df673a353bd3ee034a0ff682a80042277b302ee3be25"
+    },
+    {
+      "source": "active/Research/data_collection/prepare_pairs.py",
+      "repository_path": "Research/data_collection/prepare_pairs.py",
+      "sha256": "68e4e72f44f6a926ca53af68091239cab7d7cfbd3796621894f603af950f3ea3"
+    },
+    {
+      "source": "active/Research/data_collection/sync_playlist_covers.py",
+      "repository_path": "Research/data_collection/sync_playlist_covers.py",
+      "sha256": "b176bc56021465b039e8a22c764848b57042194d46ad5bbdf34901d6e9fb8a00"
+    },
+    {
+      "source": "active/Research/data_collection/trinity_bulk.sh",
+      "repository_path": "Research/data_collection/trinity_bulk.sh",
+      "sha256": "0c11da26166ebef7e68ab4a85de4959b9b8b932bd56831801e7c268dd9b7d90a"
+    },
+    {
+      "source": "active/Research/data_collection/trinity_finalize_triplets.py",
+      "repository_path": "Research/data_collection/trinity_finalize_triplets.py",
+      "sha256": "de8366d9ef778a88d9999d5342ec2a91b8fb6ff501f7306a74a599393f39b940"
+    },
+    {
+      "source": "active/Research/data_collection/trinity_generate.py",
+      "repository_path": "Research/data_collection/trinity_generate.py",
+      "sha256": "b9094cd2df64a1c7057a93ff6a882fedfb2b4a16e8b20a71ce5a4cda042f8ae4"
+    },
+    {
+      "source": "active/Research/data_collection/trinity_pilot.sh",
+      "repository_path": "Research/data_collection/trinity_pilot.sh",
+      "sha256": "0023fb198616a999bdfafbcdf5b7b960c7639bfda431abef45d1a142ced8112b"
+    },
+    {
+      "source": "active/Research/data_collection/trinity_pilot_audit.py",
+      "repository_path": "Research/data_collection/trinity_pilot_audit.py",
+      "sha256": "884939ab0f8e348e64655f9ed3b9c063d5b03dd3dadeaec9d59bc4d7670dbc08"
+    },
+    {
+      "source": "active/Research/data_collection/trinity_verify_and_launch.py",
+      "repository_path": "Research/data_collection/trinity_verify_and_launch.py",
+      "sha256": "ab181c3385444ca89a6077916ec2e66dae58cdd5c50553a07f99fe5458e98614"
+    },
+    {
+      "source": "active/Research/data_collection/triplet_view.html",
+      "repository_path": "Research/data_collection/triplet_view.html",
+      "sha256": "946440e696a690ebabbf682def257ede865a625ec86af0837307c64632ce46a3"
+    },
+    {
+      "source": "active/Research/data_collection/triplet_view_server.py",
+      "repository_path": "Research/data_collection/triplet_view_server.py",
+      "sha256": "584efb6f61b3aaf0609d5ecf66888f3a5a58f2db696fcbb3120efca6c2ef37ec"
+    },
+    {
+      "source": "active/Research/data_collection/unified_review.html",
+      "repository_path": "Research/data_collection/unified_review.html",
+      "sha256": "09d9444556f4b614e13264c45f4794b406396da1e794eef1c01d97d91fda9f54"
+    },
+    {
+      "source": "active/Research/data_collection/upload_trinity_project.py",
+      "repository_path": "Research/data_collection/upload_trinity_project.py",
+      "sha256": "95670d98cbf47b7bab8873e9c6cedc7ade2da3bc75823ce052ae4a4c7a8e010d"
+    },
+    {
+      "source": "active/Research/deploy_mae_adaptation.py",
+      "repository_path": "Research/deploy_mae_adaptation.py",
+      "sha256": "6f0411b5d7d7d0771af9008e13fc2e25ea9044830977037f54888c724a6f0866"
+    },
+    {
+      "source": "active/Research/deploy_mae_hybrid.py",
+      "repository_path": "Research/deploy_mae_hybrid.py",
+      "sha256": "1432178946a4c6a11366580892941e1aaf040a3f5ab5f10f2f856517d375e8f8"
+    },
+    {
+      "source": "active/Research/deploy_training_gallery.py",
+      "repository_path": "Research/deploy_training_gallery.py",
+      "sha256": "3d096d986463642c1843723dc3c4f15eaa1395c292b886c4200e646e5cae8212"
+    },
+    {
+      "source": "active/Research/encoder_experiment_inventory.py",
+      "repository_path": "Research/encoder_experiment_inventory.py",
+      "sha256": "81c64c12edb6103403c5c1f5a6eb7f0ca3ef9f99d6dbbd8ea043e02610f19c01"
+    },
+    {
+      "source": "active/Research/evaluate_mae_test.py",
+      "repository_path": "Research/evaluate_mae_test.py",
+      "sha256": "1601190b491ba4dcb28c9e5a2e97d1f77520fee4dbc662a318019abd9571b8ab"
+    },
+    {
+      "source": "active/Research/launch_mae_full.py",
+      "repository_path": "Research/launch_mae_full.py",
+      "sha256": "1402899d5d5174ccbdb9db5bcdd2afcde1e77314aa9e4029974556e70a9d4b8b"
+    },
+    {
+      "source": "active/Research/launch_mae_test.py",
+      "repository_path": "Research/launch_mae_test.py",
+      "sha256": "acd3003ff02a0b1d55abffe0ca1153c7dd1bb6c85788768a6dbc17e27df398e1"
+    },
+    {
+      "source": "active/Research/publish_virap.py",
+      "repository_path": "Research/publish_virap.py",
+      "sha256": "c435add622595357a12612a1b2604e071526fa168d084fb09a4dba7c6987f09e"
+    },
+    {
+      "source": "active/Research/restart_adaptation_monitor.py",
+      "repository_path": "Research/restart_adaptation_monitor.py",
+      "sha256": "f9efbab2d488c3828bb6f9bb70fa496897cda457453f6014c7388e0b6d87ecaf"
+    },
+    {
+      "source": "active/Research/start_encoder_probe_remote.py",
+      "repository_path": "Research/start_encoder_probe_remote.py",
+      "sha256": "17c824f74407af3831b53ca554a446c6894fe7cc01f3407a68156e8a0fe57819"
+    },
+    {
+      "source": "active/Research/test_metrics.py",
+      "repository_path": "Research/test_metrics.py",
+      "sha256": "666f4068726e701994b64e9e0b70c80bbbd38ccf04fcb263f7a74018f1f9bdef"
+    },
+    {
+      "source": "active/Research/update_mae_runtime.py",
+      "repository_path": "Research/update_mae_runtime.py",
+      "sha256": "dcebe643ad80643d4013a39ab38450a605622e64dab00897011d1dc7b3cc6625"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/adaptation_supervisor.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/adaptation_supervisor.py",
+      "sha256": "c130e9fcf753f9208084571ab23a4fa45e2f232555ff8aa790222e788169317b"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/audit_v2_1.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/audit_v2_1.py",
+      "sha256": "e301b8e42a8340cb907d1dd7ce61faa76b0f818664995a97e25df5dd96f9310f"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/build_mae_tone_configs.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/build_mae_tone_configs.py",
+      "sha256": "7b522405a8ad96527b8c44d88bc951493718eca2a5da949b509b0711c5b3712a"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/check_probe_backbones.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/check_probe_backbones.py",
+      "sha256": "fafb896094653eeba2a22315e63f4380d431e9e122286690e0b33268644e56c6"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/diagnose.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/diagnose.py",
+      "sha256": "293af11ba43b3035e1c914f80f2d9e0a510233cad230a77b378ba8a3f890859e"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/encoder_experiment_jobs.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/encoder_experiment_jobs.py",
+      "sha256": "a0f999ed7fe579d50fb12de43087a2eb0a3b748ff5aaf635a0216890b3f69f9e"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/gpu_smoke.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/gpu_smoke.py",
+      "sha256": "d7c04a483bf3e661c13da6e82112c6af01d74b4b62796f4bc2e373ba429ccd84"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_batching.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_batching.py",
+      "sha256": "6f44fd2bb2184fae588af5dfd3195542badb9ba2c61c2b9b1a8b7fad8ab3d162"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_supervisor.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/hybrid_supervisor.py",
+      "sha256": "a0ad06e92e35365dd61861b586c1733e18e7b869992f86531a74bc956033cda4"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/infer.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/infer.py",
+      "sha256": "853351237a6beb6e44367b267340d22175ec7d40b099d8ed7cc4f27dd8a04601"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_mae_tone.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_mae_tone.py",
+      "sha256": "c6b6a858a3b9f1ac69470397767b1fe6333488b6f94b66f44e90bc15bc6735f3"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_v2.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/inspect_v2.py",
+      "sha256": "02c49d154bde95be5c9342e0d3a546a1eec4e3163bb9d602041b8ea105c7b87b"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_full_supervisor.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_full_supervisor.py",
+      "sha256": "d8dd0fbbd67ace9b99bb65528e592918b7a6ac152f08a08063c08fb797a9b510"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.html",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.html",
+      "sha256": "726ec0ffb8efd98a6fdb43e462a4592cb1ea9e02127ef8367dd1f7ec776eba54"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/mae_training_dashboard.py",
+      "sha256": "6d8af40d1ec816b1cfeb836c155f977705573acf6b1362be57a2ffea35b53042"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/prepare_encoder_experiment.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/prepare_encoder_experiment.py",
+      "sha256": "bf4776679d6e71047b70ea30e4927abbb024f68305cc9be9b54755b9661f3137"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/preview_gallery_worker.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/preview_gallery_worker.py",
+      "sha256": "94dc017186031cdd57d46ae8275f2ff73491e60313e47dc8d920a37ef186bfe5"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/probe_status.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/probe_status.py",
+      "sha256": "93663dd1642844c63bc212aebb40274c0d40c901d76e92eb0aa22d43db89a8b2"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/run_encoder_probe.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/run_encoder_probe.py",
+      "sha256": "effa92f59e6a0f1e4d99fee96853bb4788a1db9c89ca75db57e52bce4f81cf20"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/save_probe_snapshot.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/save_probe_snapshot.py",
+      "sha256": "899a67b41ba60558a848e7d47e36fbbc7f26fdbf31a3fa2b7c494dfb0ac44303"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/summarize_encoder_probe.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/summarize_encoder_probe.py",
+      "sha256": "1926ea35cda52af6295cf25a04db04355e900ef50a617a539a95f57c65ad7077"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/__init__.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/__init__.py",
+      "sha256": "bf3e663594fdced94164cead87fdc0a711722f8827c31b77d54ed207062bf896"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/data.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/data.py",
+      "sha256": "799ae5fa72e31e6e4a9dd101b34aa25afad80c979f94547fb3f3f016811106f2"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/encoder_probe.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/encoder_probe.py",
+      "sha256": "ac48c0dd2d15efa6b0759e5fa8936e9ef96b23a2e95191c28dc667c2ecb78be2"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/losses.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/losses.py",
+      "sha256": "311792a60fb207c99dd6de129448fde432b93356062b0c49af5c4bfabd048fd5"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_adaptation.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_adaptation.py",
+      "sha256": "07a871cbc5175fa90d52f9e8bb0c6270c854023c00ded2480a80d40de48175c3"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_hybrid_lora.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_hybrid_lora.py",
+      "sha256": "2e5869c999862848efe4e5c2d86a7af6dace1998f7bad951d714847040e7cc2a"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_tone.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/mae_tone.py",
+      "sha256": "9bacad47851751e11a620b0fc124c769d1ecf8caa1cac983e18e75cc79185859"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/model.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/model.py",
+      "sha256": "615dd14e8541fd9aa51e5569e2865a830c116bdcdae67adf187dd8e499a77c15"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/v2.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/tone_model/v2.py",
+      "sha256": "c739114a79f6a57f8f8957a50c5189e1c56d6e9c58dc4186eacba14c46ea4d45"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train.py",
+      "sha256": "9a6df8413c7582f99294cfec24f9f4ad58051119d7545015a1c02903ed7e6b55"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_adaptation.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_adaptation.py",
+      "sha256": "0110d4bd16132f2329cbbe4adabf2dd20930846e7ed4f472de226c14a3ecdb85"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_full.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_full.py",
+      "sha256": "bf2b44a31e876ba3e742e5c9924d2deb30a2dfb3f0eb71987faffa0f3b652b71"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_hybrid.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/adaptation_sweep/Model/train_mae_hybrid.py",
+      "sha256": "924cb19a2d66cad8c5edb2cacddbde6b1a3c49d5a2c7555ad638f5bad7499ffa"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/audit_v2_1.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/audit_v2_1.py",
+      "sha256": "e301b8e42a8340cb907d1dd7ce61faa76b0f818664995a97e25df5dd96f9310f"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/build_mae_tone_configs.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/build_mae_tone_configs.py",
+      "sha256": "7b522405a8ad96527b8c44d88bc951493718eca2a5da949b509b0711c5b3712a"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/check_probe_backbones.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/check_probe_backbones.py",
+      "sha256": "fafb896094653eeba2a22315e63f4380d431e9e122286690e0b33268644e56c6"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/diagnose.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/diagnose.py",
+      "sha256": "293af11ba43b3035e1c914f80f2d9e0a510233cad230a77b378ba8a3f890859e"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/encoder_experiment_jobs.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/encoder_experiment_jobs.py",
+      "sha256": "a0f999ed7fe579d50fb12de43087a2eb0a3b748ff5aaf635a0216890b3f69f9e"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/gpu_smoke.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/gpu_smoke.py",
+      "sha256": "d7c04a483bf3e661c13da6e82112c6af01d74b4b62796f4bc2e373ba429ccd84"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_batching.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_batching.py",
+      "sha256": "6f44fd2bb2184fae588af5dfd3195542badb9ba2c61c2b9b1a8b7fad8ab3d162"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_supervisor.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/hybrid_supervisor.py",
+      "sha256": "a0ad06e92e35365dd61861b586c1733e18e7b869992f86531a74bc956033cda4"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/infer.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/infer.py",
+      "sha256": "853351237a6beb6e44367b267340d22175ec7d40b099d8ed7cc4f27dd8a04601"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_mae_tone.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_mae_tone.py",
+      "sha256": "c6b6a858a3b9f1ac69470397767b1fe6333488b6f94b66f44e90bc15bc6735f3"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_v2.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/inspect_v2.py",
+      "sha256": "02c49d154bde95be5c9342e0d3a546a1eec4e3163bb9d602041b8ea105c7b87b"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_full_supervisor.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_full_supervisor.py",
+      "sha256": "d8dd0fbbd67ace9b99bb65528e592918b7a6ac152f08a08063c08fb797a9b510"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.html",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.html",
+      "sha256": "726ec0ffb8efd98a6fdb43e462a4592cb1ea9e02127ef8367dd1f7ec776eba54"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/mae_training_dashboard.py",
+      "sha256": "6d8af40d1ec816b1cfeb836c155f977705573acf6b1362be57a2ffea35b53042"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/prepare_encoder_experiment.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/prepare_encoder_experiment.py",
+      "sha256": "bf4776679d6e71047b70ea30e4927abbb024f68305cc9be9b54755b9661f3137"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/probe_status.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/probe_status.py",
+      "sha256": "93663dd1642844c63bc212aebb40274c0d40c901d76e92eb0aa22d43db89a8b2"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/run_encoder_probe.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/run_encoder_probe.py",
+      "sha256": "effa92f59e6a0f1e4d99fee96853bb4788a1db9c89ca75db57e52bce4f81cf20"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/save_probe_snapshot.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/save_probe_snapshot.py",
+      "sha256": "899a67b41ba60558a848e7d47e36fbbc7f26fdbf31a3fa2b7c494dfb0ac44303"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/summarize_encoder_probe.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/summarize_encoder_probe.py",
+      "sha256": "1926ea35cda52af6295cf25a04db04355e900ef50a617a539a95f57c65ad7077"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/__init__.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/__init__.py",
+      "sha256": "bf3e663594fdced94164cead87fdc0a711722f8827c31b77d54ed207062bf896"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/data.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/data.py",
+      "sha256": "799ae5fa72e31e6e4a9dd101b34aa25afad80c979f94547fb3f3f016811106f2"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/encoder_probe.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/encoder_probe.py",
+      "sha256": "ac48c0dd2d15efa6b0759e5fa8936e9ef96b23a2e95191c28dc667c2ecb78be2"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/losses.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/losses.py",
+      "sha256": "311792a60fb207c99dd6de129448fde432b93356062b0c49af5c4bfabd048fd5"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_hybrid_lora.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_hybrid_lora.py",
+      "sha256": "2e5869c999862848efe4e5c2d86a7af6dace1998f7bad951d714847040e7cc2a"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_tone.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/mae_tone.py",
+      "sha256": "9bacad47851751e11a620b0fc124c769d1ecf8caa1cac983e18e75cc79185859"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/model.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/model.py",
+      "sha256": "615dd14e8541fd9aa51e5569e2865a830c116bdcdae67adf187dd8e499a77c15"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/v2.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/tone_model/v2.py",
+      "sha256": "c739114a79f6a57f8f8957a50c5189e1c56d6e9c58dc4186eacba14c46ea4d45"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train.py",
+      "sha256": "9a6df8413c7582f99294cfec24f9f4ad58051119d7545015a1c02903ed7e6b55"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_full.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_full.py",
+      "sha256": "bf2b44a31e876ba3e742e5c9924d2deb30a2dfb3f0eb71987faffa0f3b652b71"
+    },
+    {
+      "source": "persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_hybrid.py",
+      "repository_path": "Remote_Code/persistent/Experiments/mae_full_20261030/addon_code/hybrid_lora/Model/train_mae_hybrid.py",
+      "sha256": "924cb19a2d66cad8c5edb2cacddbde6b1a3c49d5a2c7555ad638f5bad7499ffa"
+    },
+    {
+      "source": "persistent/Model/README.md",
+      "repository_path": "Remote_Code/persistent/Model/README.md",
+      "sha256": "60dd229c93d570fa5aa6807a5aee5ef1228c7bd604d2e1566a004ac1c1a429aa"
+    },
+    {
+      "source": "persistent/Model/configs/default.json",
+      "repository_path": "Model/configs/default.json",
+      "sha256": "8fda345064f51debe4572fd5b13cec5fbb18ea867d8a2a786be95ae1d20d5155"
+    },
+    {
+      "source": "persistent/Model/configs/global_only.json",
+      "repository_path": "Model/configs/global_only.json",
+      "sha256": "1da120e0a678b7dab63b39d3c8ebb13a1c8f8d6aeecf03c37e1a33e2270fa53b"
+    },
+    {
+      "source": "persistent/Model/configs/local_mean.json",
+      "repository_path": "Model/configs/local_mean.json",
+      "sha256": "3b661e2d93067f8a2ed32729e555f84dc3aa7b3bb3bb7a55f2159ffb481a6001"
+    },
+    {
+      "source": "persistent/Model/configs/local_soft.json",
+      "repository_path": "Model/configs/local_soft.json",
+      "sha256": "222c2477638ab873e6ee23c2904875d31f4b9d4cee3706382a67c6c91382645e"
+    },
+    {
+      "source": "persistent/Model/configs/local_unprojected.json",
+      "repository_path": "Model/configs/local_unprojected.json",
+      "sha256": "483b4a02f39f8a1d38390a7ce2f37560f214e241923a26716ce1566cad641698"
+    },
+    {
+      "source": "persistent/Model/configs/unbounded_projection.json",
+      "repository_path": "Model/configs/unbounded_projection.json",
+      "sha256": "6f1cc9dde750b67d2f8555bd8280e5441ebddb347e8535822fd33ea13aa1a561"
+    },
+    {
+      "source": "persistent/Model/configs/without_style_aux.json",
+      "repository_path": "Model/configs/without_style_aux.json",
+      "sha256": "681c46fcbf86261f2584711d125630c1306724e80baae49ab613d8624f2ee0fc"
+    },
+    {
+      "source": "persistent/Model/diagnose.py",
+      "repository_path": "Model/diagnose.py",
+      "sha256": "293af11ba43b3035e1c914f80f2d9e0a510233cad230a77b378ba8a3f890859e"
+    },
+    {
+      "source": "persistent/Model/gpu_smoke.py",
+      "repository_path": "Model/gpu_smoke.py",
+      "sha256": "d7c04a483bf3e661c13da6e82112c6af01d74b4b62796f4bc2e373ba429ccd84"
+    },
+    {
+      "source": "persistent/Model/infer.py",
+      "repository_path": "Model/infer.py",
+      "sha256": "853351237a6beb6e44367b267340d22175ec7d40b099d8ed7cc4f27dd8a04601"
+    },
+    {
+      "source": "persistent/Model/requirements.txt",
+      "repository_path": "Model/requirements.txt",
+      "sha256": "337dd83decb19f54e1075a7a014965dc5283b72dcf9b23445bafa670378be460"
+    },
+    {
+      "source": "persistent/Model/tests/test_data.py",
+      "repository_path": "Model/tests/test_data.py",
+      "sha256": "a3aef9ac18076d208409687cf0ca95b3b295840dc3be5d9f4cd076b1250c347d"
+    },
+    {
+      "source": "persistent/Model/tests/test_model.py",
+      "repository_path": "Model/tests/test_model.py",
+      "sha256": "4f2b47ec84ab239298c93d846bd6faff339186315f6488d963442a19e27e765b"
+    },
+    {
+      "source": "persistent/Model/tone_model/__init__.py",
+      "repository_path": "Model/tone_model/__init__.py",
+      "sha256": "bf3e663594fdced94164cead87fdc0a711722f8827c31b77d54ed207062bf896"
+    },
+    {
+      "source": "persistent/Model/tone_model/data.py",
+      "repository_path": "Model/tone_model/data.py",
+      "sha256": "799ae5fa72e31e6e4a9dd101b34aa25afad80c979f94547fb3f3f016811106f2"
+    },
+    {
+      "source": "persistent/Model/tone_model/losses.py",
+      "repository_path": "Model/tone_model/losses.py",
+      "sha256": "311792a60fb207c99dd6de129448fde432b93356062b0c49af5c4bfabd048fd5"
+    },
+    {
+      "source": "persistent/Model/tone_model/model.py",
+      "repository_path": "Model/tone_model/model.py",
+      "sha256": "615dd14e8541fd9aa51e5569e2865a830c116bdcdae67adf187dd8e499a77c15"
+    },
+    {
+      "source": "persistent/Model/train.py",
+      "repository_path": "Model/train.py",
+      "sha256": "9a6df8413c7582f99294cfec24f9f4ad58051119d7545015a1c02903ed7e6b55"
+    },
+    {
+      "source": "persistent/Research/PETAL/CVPR2027定位与创新风险复核.md",
+      "repository_path": "Research/PETAL/CVPR2027定位与创新风险复核.md",
+      "sha256": "ab7b54bf79591f6606cfe7097c43c75c21b4f11023e82a9db4bb207083de0ac9"
+    },
+    {
+      "source": "persistent/Research/PETAL/Trinity数据生成运行记录.md",
+      "repository_path": "Research/PETAL/Trinity数据生成运行记录.md",
+      "sha256": "fcd8cd2cd966191dc0c42c103e22d9dac81b870a70e532b9eb98e25da9643f4e"
+    },
+    {
+      "source": "persistent/Research/PETAL/architecture_peer_critique.md",
+      "repository_path": "Research/PETAL/architecture_peer_critique.md",
+      "sha256": "7cabe2bb6c06b2ad55b99a17e49faef0ad0e4df5cc69dbd0744b90831f001486"
+    },
+    {
+      "source": "persistent/Research/PETAL/参考条件调色架构主线候选.md",
+      "repository_path": "Research/PETAL/参考条件调色架构主线候选.md",
+      "sha256": "b37f9d5cb2d7c57e46a009ca93ae4c6b503c0ba72089f8c2b94e3b8e7e2f9454"
+    },
+    {
+      "source": "persistent/Research/PETAL/模型架构完整设计与自审.md",
+      "repository_path": "Research/PETAL/模型架构完整设计与自审.md",
+      "sha256": "09715508ae40946c6815bee092c742a5f8e2bb4ee06dea6cb1ea1457b351025d"
+    },
+    {
+      "source": "persistent/Research/PETAL/毕业论文调研与实施建议.md",
+      "repository_path": "Research/PETAL/毕业论文调研与实施建议.md",
+      "sha256": "1331233fedd0aecdb2f03854e294721d11ac521c8edbb36b717fce2d26e20819"
+    },
+    {
+      "source": "persistent/Research/PETAL/训练入口验证记录.md",
+      "repository_path": "Research/PETAL/训练入口验证记录.md",
+      "sha256": "4d360a7837ac470498b578f2724a10764d5084828ecd9391922e70c3819d0c67"
+    },
+    {
+      "source": "persistent/Research/Trinity-generation-record.md",
+      "repository_path": "Research/Trinity-generation-record.md",
+      "sha256": "fcd8cd2cd966191dc0c42c103e22d9dac81b870a70e532b9eb98e25da9643f4e"
+    },
+    {
+      "source": "persistent/Research/data_collection/apply_review_deletions.py",
+      "repository_path": "Research/data_collection/apply_review_deletions.py",
+      "sha256": "0928ac532844e859a338c8ebf75cb60538e2f14f5f6ee799e6132a55b8081e37"
+    },
+    {
+      "source": "persistent/Research/data_collection/apply_unified_review.py",
+      "repository_path": "Research/data_collection/apply_unified_review.py",
+      "sha256": "23da669bee6d15c13d12d456ce6a063f837c0fbbdaf44fced19837635c23ad7c"
+    },
+    {
+      "source": "persistent/Research/data_collection/build_pair_preview.py",
+      "repository_path": "Research/data_collection/build_pair_preview.py",
+      "sha256": "922be60a480e153b0c5794123f60946406b871687cb47fc4f6642e67cc6dcbc1"
+    },
+    {
+      "source": "persistent/Research/data_collection/build_review.py",
+      "repository_path": "Research/data_collection/build_review.py",
+      "sha256": "7ef3ee659f333c35374de1c93eb01eb907b7a565ffed03e6fa8863951bca7d0c"
+    },
+    {
+      "source": "persistent/Research/data_collection/build_unified_review.py",
+      "repository_path": "Research/data_collection/build_unified_review.py",
+      "sha256": "378b2913e9d29cec8ce0641a418296d4375a415ce25d05c0eda8f88458972a03"
+    },
+    {
+      "source": "persistent/Research/data_collection/collect_photos.py",
+      "repository_path": "Research/data_collection/collect_photos.py",
+      "sha256": "0481bb55c60fe3f5d2d75834112fe1883a0954a665022a42eb844fda7fc5b2e3"
+    },
+    {
+      "source": "persistent/Research/data_collection/download_album_covers.py",
+      "repository_path": "Research/data_collection/download_album_covers.py",
+      "sha256": "7ae0f7a2434848d675bc9b340eb8148555cd44f49af601bf87106805e386d8d5"
+    },
+    {
+      "source": "persistent/Research/data_collection/expand_pairs_60000.py",
+      "repository_path": "Research/data_collection/expand_pairs_60000.py",
+      "sha256": "cc8c24145c661862b1dfe7aa94ef8bb644cdf85598f1a93bba5b2c93a354425c"
+    },
+    {
+      "source": "persistent/Research/data_collection/finalize_album_review.py",
+      "repository_path": "Research/data_collection/finalize_album_review.py",
+      "sha256": "30310429da001ae7ad5e1fe58ef3d14f3f4dcbe3df8e76aca2e306fd4f01fce8"
+    },
+    {
+      "source": "persistent/Research/data_collection/pair_preview.html",
+      "repository_path": "Research/data_collection/pair_preview.html",
+      "sha256": "63c5dd07f81608361cd6df673a353bd3ee034a0ff682a80042277b302ee3be25"
+    },
+    {
+      "source": "persistent/Research/data_collection/prepare_pairs.py",
+      "repository_path": "Research/data_collection/prepare_pairs.py",
+      "sha256": "68e4e72f44f6a926ca53af68091239cab7d7cfbd3796621894f603af950f3ea3"
+    },
+    {
+      "source": "persistent/Research/data_collection/sync_playlist_covers.py",
+      "repository_path": "Research/data_collection/sync_playlist_covers.py",
+      "sha256": "b176bc56021465b039e8a22c764848b57042194d46ad5bbdf34901d6e9fb8a00"
+    },
+    {
+      "source": "persistent/Research/data_collection/trinity_bulk.sh",
+      "repository_path": "Research/data_collection/trinity_bulk.sh",
+      "sha256": "0c11da26166ebef7e68ab4a85de4959b9b8b932bd56831801e7c268dd9b7d90a"
+    },
+    {
+      "source": "persistent/Research/data_collection/trinity_finalize_triplets.py",
+      "repository_path": "Research/data_collection/trinity_finalize_triplets.py",
+      "sha256": "de8366d9ef778a88d9999d5342ec2a91b8fb6ff501f7306a74a599393f39b940"
+    },
+    {
+      "source": "persistent/Research/data_collection/trinity_generate.py",
+      "repository_path": "Research/data_collection/trinity_generate.py",
+      "sha256": "b9094cd2df64a1c7057a93ff6a882fedfb2b4a16e8b20a71ce5a4cda042f8ae4"
+    },
+    {
+      "source": "persistent/Research/data_collection/trinity_pilot.sh",
+      "repository_path": "Research/data_collection/trinity_pilot.sh",
+      "sha256": "0023fb198616a999bdfafbcdf5b7b960c7639bfda431abef45d1a142ced8112b"
+    },
+    {
+      "source": "persistent/Research/data_collection/trinity_pilot_audit.py",
+      "repository_path": "Research/data_collection/trinity_pilot_audit.py",
+      "sha256": "884939ab0f8e348e64655f9ed3b9c063d5b03dd3dadeaec9d59bc4d7670dbc08"
+    },
+    {
+      "source": "persistent/Research/data_collection/trinity_verify_and_launch.py",
+      "repository_path": "Research/data_collection/trinity_verify_and_launch.py",
+      "sha256": "ab181c3385444ca89a6077916ec2e66dae58cdd5c50553a07f99fe5458e98614"
+    },
+    {
+      "source": "persistent/Research/data_collection/triplet_view.html",
+      "repository_path": "Research/data_collection/triplet_view.html",
+      "sha256": "946440e696a690ebabbf682def257ede865a625ec86af0837307c64632ce46a3"
+    },
+    {
+      "source": "persistent/Research/data_collection/triplet_view_server.py",
+      "repository_path": "Research/data_collection/triplet_view_server.py",
+      "sha256": "584efb6f61b3aaf0609d5ecf66888f3a5a58f2db696fcbb3120efca6c2ef37ec"
+    },
+    {
+      "source": "persistent/Research/data_collection/unified_review.html",
+      "repository_path": "Research/data_collection/unified_review.html",
+      "sha256": "09d9444556f4b614e13264c45f4794b406396da1e794eef1c01d97d91fda9f54"
+    },
+    {
+      "source": "persistent/Research/data_collection/upload_trinity_project.py",
+      "repository_path": "Research/data_collection/upload_trinity_project.py",
+      "sha256": "95670d98cbf47b7bab8873e9c6cedc7ade2da3bc75823ce052ae4a4c7a8e010d"
+    }
+  ]
+}

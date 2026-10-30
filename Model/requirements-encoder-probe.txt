@@ -1,0 +1,3 @@
+# Additional to requirements.txt; versions used by the frozen encoder probe.
+timm==1.0.22
+safetensors==0.6.2
