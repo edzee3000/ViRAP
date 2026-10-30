@@ -28,6 +28,9 @@
 *.csv
 *.tsv
 *.log
+*_log.txt
+*_remote_tests.txt
+*_extracted.txt
 *.pid
 *.pyc
 *.pyo
